@@ -10,7 +10,6 @@ My personal collection of algorithms and data structures :)
   - Sequence
   - Statistics
   - Cryptography
-  - Machine learning
   - Language theory
   - Cache
   - Hashes
