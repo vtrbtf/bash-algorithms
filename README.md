@@ -27,6 +27,7 @@ My personal collection of algorithms and data structures :)
   - [arnauddri/algorithms](https://github.com/arnauddri/algorithms)
   - [sagivo/algorithms](https://github.com/sagivo/algorithms)
   - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+  - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
 ### Books
   - [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880)
