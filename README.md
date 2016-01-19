@@ -1,7 +1,6 @@
 # Algorithms
 My personal collection of algorithms and data structures :)
 
-
 ## Categories
 
   - Classical
@@ -32,6 +31,7 @@ My personal collection of algorithms and data structures :)
 ### Books
   - [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880)
   - [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
+  - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
   - [Introduction to Distributed Algorithms](http://www.amazon.com/Introduction-Distributed-Algorithms-Gerard-Tel/dp/0521794838)
   - [150 Programming Questions and Solutions by Gayle Laakmann](http://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
   - [Algorithm in Nutshell](http://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X)
